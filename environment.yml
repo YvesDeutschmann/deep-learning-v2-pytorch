@@ -1,0 +1,24 @@
+name: deepLearning
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - cudatoolkit=11.3
+  - jupyter
+  - matplotlib
+  - pandas
+  - numpy
+  - opencv
+  - pillow
+  - pytorch
+  - torchvision 
+  - torchaudio 
+  - tqdm
+  - scikit-learn
+  - scikit-image
+  - scipy
+  - seaborn
+  - h5py
+  - ipykernel
+  - bokeh
+  - pickleshare
